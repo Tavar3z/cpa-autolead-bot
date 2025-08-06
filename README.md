@@ -1,5 +1,12 @@
 # CPA Autolead Bot 🤖
 
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/Tavar3z/cpa-autolead-bot)](https://github.com/Tavar3z/cpa-autolead-bot)
+[![Stars](https://img.shields.io/github/stars/Tavar3z/cpa-autolead-bot?style=social)](https://github.com/Tavar3z/cpa-autolead-bot/stargazers)
+
+Automação para criação de perfis e geração de leads em campanhas CPA com AdsPower + proxy + rotinas automatizadas.
+
 Automação para criação de perfis e geração de leads em campanhas CPA com AdsPower + proxy + rotinas automatizadas.
 
 ## Funcionalidades
