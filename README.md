@@ -21,5 +21,20 @@ pip install -r requirements.txt > rodar no cmd ou powershell
 - Python 3.10+
 - Pandas, OpenPyXL
 
+
+---
+🔧 Ferramentas usadas
+- Python 3.10
+- AdsPower API
+- Pandas, OpenPyXL
+- Automação com proxy HTTP
+
+📁 Estrutura
+- src/: código-fonte do bot
+- data/: planilha com perfis
+- requirements.txt: dependências
+---
+
+
 ## Autoria
-Feito com café ☕ e força de vontade por [Gabriel vulgo Tavar3z ](https://github.com/users/Tavar3z)
+Feito com café ☕ e força de vontade por [Gabriel, vulgo Tavar3z ](https://github.com/users/Tavar3z)
