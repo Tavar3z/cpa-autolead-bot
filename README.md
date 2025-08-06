@@ -22,4 +22,4 @@ pip install -r requirements.txt > rodar no cmd ou powershell
 - Pandas, OpenPyXL
 
 ## Autoria
-Feito com café ☕ e força de vontade por [Seu Nome](https://github.com/users/Tavar3z)
+Feito com café ☕ e força de vontade por [Gabriel vulgo Tavar3z ](https://github.com/users/Tavar3z)
